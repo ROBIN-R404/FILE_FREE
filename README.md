@@ -27,4 +27,4 @@ git clone https://github.com/ROBIN-R404/FILE_FREE
 
 cd FILE_FREE
 
-python PAID_FREE.py
+python PAID-FREE.py
